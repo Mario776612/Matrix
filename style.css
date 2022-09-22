@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+   background-color: black;
+   }
+.textbox{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    background: transparent;
+    width: 20%;
+    height: 5%;
+    border: 0;
+    border-bottom:2px solid #00FF00;
+    color: white;
+    font-family: 'Lucida Sans';
+    font-size: 1.3rem;
+}
+#pipi{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    color: #00FF00;
+    font-family: 'Lucida Sans';
+    font-size: 1.3rem;
+}
